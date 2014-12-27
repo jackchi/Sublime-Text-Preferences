@@ -1,6 +1,10 @@
 # Sublime-Text-Preferences
 Useful Sublime-Text-3 User Preferences and Keymappings
 
+Some of the best worlflows I'd have to say it's the "save on focus lost" and my keymap "cmd+delete" that deletes the entire line. Similar to Workflow in [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+
+Please send pull requests or suggestions. 
+
 I use Sublime Text for general-purpose configuration files editting. Scripting in Python. Etc. This README.md was composed in [dillinger.io](http://dillinger.io/)
 
 ## How to Configure
