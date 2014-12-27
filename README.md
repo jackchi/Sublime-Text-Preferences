@@ -1,10 +1,19 @@
 # Sublime-Text-Preferences
 I use Sublime Text for general-purpose configuration files editting. Scripting in Python. Etc. This README.md was composed in [dillinger.io](http://dillinger.io/)
+
 ## How to Configure
 Under **Preferences** -> **Key Bindings- User** overrides the system defaults. 
 *For MacOSX* Users -> "super" means the Apple(CMD) Key. 
-## Useful Key Mappings
 
+## Useful Preferences
+Here's my **[User Preferences](Preferences.sublime-settings)**
+
+```
+// Saves the file when you lose focus
+"save_on_focus_lost": true
+```
+
+## Useful Key Mappings
 Here's my **[Default (OSX).sublime-keymap](Default.sublime-keymap)**
 ```
 // Delete a line with cmd+delete
