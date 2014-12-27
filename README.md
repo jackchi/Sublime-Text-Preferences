@@ -37,7 +37,7 @@ Here's my **[Default (OSX).sublime-keymap](Default.sublime-keymap)**
 ```
     
 ## Useful Packages
-Here's my ** [Installed Packages](Package Control.sublime-settings) 
+Here's my ** [Installed Packages](Package Control.sublime-settings) **
 You can install packages with Shift+Cmd+P: Install Packge
 + Jedi - Python Autocompleter is awesome!
 + SideBarEnhancements is necessary
