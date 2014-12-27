@@ -1,4 +1,6 @@
 # Sublime-Text-Preferences
+Useful Sublime-Text-3 User Preferences and Keymappings
+
 I use Sublime Text for general-purpose configuration files editting. Scripting in Python. Etc. This README.md was composed in [dillinger.io](http://dillinger.io/)
 
 ## How to Configure
@@ -38,4 +40,16 @@ You can install packages with Shift+Cmd+P: Install Packge
 + All Autocomplete will remember your history and complete based on those entries
 
 ## System Integration
-Useful Sublime-Text-3 User Preferences and Keymappings
+
+To get your Terminal to recognize `subl` as a command you can create a symbolic link and put it on your path:
+
+In Sublime Text 3:
+```bash
+sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/bin/subl
+```
+
+In Sublime Text 2:
+```bash
+sudo ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+```
+
